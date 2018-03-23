@@ -1,0 +1,16 @@
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\PCD2.2.exe.config
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\PCD2.2.exe
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\PCD2.2.pdb
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\Emgu.CV.UI.dll
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\Emgu.CV.World.dll
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\ZedGraph.dll
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\Emgu.CV.UI.xml
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\bin\Debug\Emgu.CV.World.xml
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2._2.Form1.resources
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2._2.Properties.Resources.resources
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.csproj.GenerateResource.cache
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.csproj.CoreCompileInputs.cache
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.csproj.CopyComplete
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.exe
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.pdb
+c:\users\sufyan\source\repos\PCD2.2\PCD2.2\obj\Debug\PCD2.2.csprojResolveAssemblyReference.cache
